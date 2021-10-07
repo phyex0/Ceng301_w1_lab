@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/
+.idea
+Ceng301_w1_lab.iml
